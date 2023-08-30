@@ -1,0 +1,7 @@
+# Ignore bin and obj directories
+bin/
+obj/
+
+# Ignore JSON files
+*.json
+*.csproj
