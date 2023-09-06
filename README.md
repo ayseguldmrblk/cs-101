@@ -11,13 +11,13 @@ This repository houses a collection of assignments and projects undertaken durin
 1) Positive Numbers and Even Numbers
 2) Divisibility Check
 3) Reversed Strings
-4) Sentence Analysis- Description: Explain what this part of the assignment does.
-
+4) Sentence Analysis
+   
 ## Assignment 2: Odev2
 
 1) Prime Number Checker
 2) Smallest and Biggest Numbers- Description: Explain what this program does.
-3) Vowel Sorter- Description: Explain what this program does.
+3) Vowel Sorter
 
 ## Project: Contact Management Console Application
 
