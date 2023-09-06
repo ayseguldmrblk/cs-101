@@ -4,7 +4,7 @@ Description: Patika.dev Academy's C#101 Course
 
 ## About
 
-This repository houses a collection of assignments and projects undertaken during the course of advancing through the C# 101 program offered by (patika.dev)[https://academy.patika.dev/tr/courses/csharp-101] Patika.dev.
+This repository houses a collection of assignments and projects undertaken during the course of advancing through the C# 101 program offered by (patika.dev)[https://academy.patika.dev/tr/courses/csharp-101].
 
 ## Assignment 1: Odev1
 
