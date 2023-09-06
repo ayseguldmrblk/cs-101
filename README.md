@@ -16,7 +16,7 @@ This repository houses a collection of assignments and projects undertaken durin
 ## Assignment 2: Odev2
 
 1) Prime Number Checker
-2) Smallest and Biggest Numbers- Description: Explain what this program does.
+2) Smallest and Biggest Numbers
 3) Vowel Sorter
 
 ## Project: Contact Management Console Application
