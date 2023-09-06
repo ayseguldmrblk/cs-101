@@ -78,6 +78,8 @@ class Program
                             if (c.Name == nameOrSurname || c.Surname == nameOrSurname)
                             {
                                 contacts.Remove(c);
+                                Console.WriteLine("{0} {1} is deleted", c.Name, c.Surname);
+                                found = true;
                                 break;
                             }
                         }
